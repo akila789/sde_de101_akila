@@ -1,0 +1,6 @@
+1.	Get the business user’s requirements with the help of several discussions with them.
+2.	Understand the requirements by go through each of the requirements.
+3.	Validate the requirements against available data and identify the feasibility of the requirements.
+4.	Negotiate with the business users about the requirements and availability of data.
+5.	If they agreed with the feasible requirements start the development.
+6.	If they do not agree with the negotiation, find a ways to more data into system to cater those requirements.
